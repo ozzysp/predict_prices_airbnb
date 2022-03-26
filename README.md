@@ -4,6 +4,12 @@ This project was made with Scikit Learn and Python to predict prices with AirBnb
 
 You can download the dataset from [here](https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data).
 
+Fork this project on [Github](https://github.com/ozzysp/predict_prices_airbnb.git).
+
+Clone this project copying and pasting the link above in terminal.
+
+(git clone https://github.com/ozzysp/predict_prices_airbnb.git).
+
 For use this model, you need to download the dataset and put it in the same folder of this project.
 
 To start, you need to install the following packages:
@@ -24,13 +30,13 @@ Then you can install the packages:
 
     $ pip install -r requirements.txt
 
-after that, you can run the code:
+After that, you can run the code:
 
     $ python3 airbnb_prices.py
 
 How long time it takes to run the code?
-The time is took to run the code is about if you run locally, it depends on the machine, 
-if you run on a server, it will be longer, depending your internet speed.
+The time will take to run the code is about if you run locally, it depends on the machine, 
+if you run on a server, it will be longer and depends the speed of your internet connection.
 
 If you want to run the code on a server, you need to install the following packages:
 jupyter
@@ -47,3 +53,4 @@ In terminal jus type: jupyter notebook
 This model has been made for study purposes only.
 if you have any question, please contact me.
 
+You can contribute to this project

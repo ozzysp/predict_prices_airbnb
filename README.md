@@ -1,4 +1,4 @@
-# Machine Learning for Price Prediction in AIRBNB
+# Machine Learning Model for Price Prediction in AIRBNB
 
 This project was made with Scikit Learn and Python to predict prices with AirBnb database in Rio de Janeiro.
 
@@ -51,6 +51,7 @@ Run jupyter notebook.
 In terminal jus type: jupyter notebook
  
 This model has been made for study purposes only.
-if you have any question, please contact me.
+
+If you have any question, please contact me.
 
 You can contribute to this project
